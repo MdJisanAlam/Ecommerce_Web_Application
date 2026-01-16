@@ -1,4 +1,4 @@
-                                                                        🛒 E-Commerce Website (Java)
+ 🛒 E-Commerce Website (Java)
 
 An E-Commerce Website built using Java that allows users to browse products, add items to a cart, place orders, and manage accounts. This project demonstrates core Java concepts along with database integration and basic web application functionality.
 📌 Project Overview
